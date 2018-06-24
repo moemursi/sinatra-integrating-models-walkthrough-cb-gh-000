@@ -1,4 +1,4 @@
-# Integrating Models Sinatra Code-along
+# Integrating Models Sinadtra Code-along
 
 ## Overview
 In previous lessons, we've applied logic to data provided by the user directly in our application controller. While this works, it does not follow the principle of 'separation of concerns' - our files should do one thing and one thing only. In this code-along lesson, we'll learn how to move the logic to a model in a Sinatra application. By doing this, we'll create our first full Model-View-Controller application in Sinatra!
